@@ -1,0 +1,6 @@
+train: ./datasets/train/images
+val: ./datasets/val/images
+test: ./datasets/test/images
+
+nc: 1
+names: ['airplane']
